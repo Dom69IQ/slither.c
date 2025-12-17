@@ -1,0 +1,2 @@
+/Users/dominicpotec/miniforge3/envs/slither_pro/bin/arm64-apple-darwin20.0.0-ar qc libenet.a CMakeFiles/enet_static.dir/test/library.c.o
+/Users/dominicpotec/miniforge3/envs/slither_pro/bin/llvm-ranlib libenet.a
